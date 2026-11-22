@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1795100167 source:c:\users\hp\documents\c programming\pharmacymanagement\main.c
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<errno.h>
+	<math.h>
+	<limits.h>
+	<stdarg.h>
+

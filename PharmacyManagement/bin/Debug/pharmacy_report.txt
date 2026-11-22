@@ -1,0 +1,27 @@
+PHARMACY MANAGEMENT SYSTEM - GENERATED REPORT
+Report date: 2026-11-19
+============================================================
+
+1. INVENTORY SUMMARY
+Registered medicine records: 5
+Total units currently recorded: 733
+Current stock value (not expired): 403300.00 RWF
+Expired stock loss: 0.00 RWF
+
+2. SALES SUMMARY
+Total sales revenue (after discounts): 23620.00 RWF
+Number of sales today: 4
+Best-selling medicine: Paracetamol (ID: MED001)
+Units sold: 36
+
+3. LOW-STOCK MEDICINES (quantity below 10)
+- Paracetamol (ID: MED003), quantity: 5
+
+4. MEDICINES EXPIRING WITHIN 30 DAYS (including today)
+- Amoxicillin (ID: MED004), expiry: 2026-11-25, days remaining: 6
+
+5. DATA NOTES
+Expired medicines are excluded from current stock value and counted as expired stock loss.
+Medicines with invalid expiry dates are excluded from both value categories: 0 record(s).
+Sales revenue is the final amount paid after any discount.
+Best-selling medicine is based on total units sold across saved sales records.
